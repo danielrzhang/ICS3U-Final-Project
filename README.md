@@ -23,4 +23,4 @@ All the code here is written by the owner of this account, Daniel Zhang, from Ri
 Do **_NOT_** COPY AND PASTE CODE!
 
 # Notes
-We briefly (and I really mean very *very* briefly) went over Swing GUI in Java at school, so some of the graphics code might not make sense. The structure of the code is also really bad, because I really didn't understand how OOP worked and I never designed a game in my life before. If you want a better example, go look at my [ICS4U1 Tank Game](https://github.com/danielrzhang/ICS4U1-Final-Project) instead.
+We briefly (and I really mean very *very* briefly) went over Swing GUI in Java at school, so some of the graphics code might not make sense. The structure of the code is also really bad, because I really didn't understand how OOP worked and I never designed a game in my life before. If you want a better example, go look at my [ICS4U1 Tank Game](https://github.com/danielrzhang/ICS4U1-Final-Project) instead, which has better OOP design and code structure.
