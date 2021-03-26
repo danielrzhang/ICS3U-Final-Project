@@ -1,6 +1,6 @@
-# ICS3U1-Final-Project
+# ICS3U-Final-Project
 
-This was my ICS3U1 project, and it took a month to develop by myself. It's a recreation of the popular arcade game "Snake". Using the arrow keys, you control a snake around a 20 x 20 game grid. Strawberries will periodically spawn on the grid, and as you eat more strawberries, the higher your score gets. However, the length of the snake also increases. You lose the round when you crash into yourself or hit a wall.
+This was my ICS3U project, and it took a month to develop by myself. It's a recreation of the popular arcade game "Snake". Using the arrow keys, you control a snake around a 20 x 20 game grid. Strawberries will periodically spawn on the grid, and as you eat more strawberries, the higher your score gets. However, the length of the snake also increases. You lose the round when you crash into yourself or hit a wall.
 
 # Code Style
 The structure of the written code and Javadoc comments are based off of Richmond Hill High School's [Java Style Programming Guide](https://github.com/danielrzhang/ICS4U1-Computer-Science/blob/main/RHHS%20Java%20Style%20Guide.pdf).
