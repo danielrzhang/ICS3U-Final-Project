@@ -5,6 +5,13 @@ This was my ICS3U project, and it took a month to develop by myself. It's a recr
 # Code Style
 The structure of the written code and Javadoc comments are based off of Richmond Hill High School's [Java Style Programming Guide](https://github.com/danielrzhang/ICS4U1-Computer-Science/blob/main/RHHS%20Java%20Style%20Guide.pdf).
 
+# Game Snapshots
+## Title Screen
+![](/images/Title.PNG)
+
+## Game Play
+![](/images/Snake.PNG)
+
 # Editor
  - Coded with DrJava (I seriously don't recommend this IDE since it sucks, but I had to use it because my teacher forced us to)
  
