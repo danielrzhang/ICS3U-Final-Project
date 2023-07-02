@@ -1,9 +1,13 @@
 # Hungry Snake
+Hungry Snake is an engaging recreation of the beloved arcade classic "Snake". In this game, you take control of a snake within a 20 x 20 game grid. Utilizing the arrow keys, navigate the snake around the grid, maneuvering it towards strawberries that periodically spawn. Each time your snake consumes a strawberry, your score increases, and your snake grows longer.
 
-This was my ICS3U project, and it took a month to develop by myself. It's a recreation of the popular arcade game "Snake". Using the arrow keys, you control a snake around a 20 x 20 game grid. Strawberries will periodically spawn on the grid, and as you eat more strawberries, the higher your score gets. However, the length of the snake also increases. You lose the game when you crash into yourself or hit a wall.
+However, be careful! The longer your snake becomes, the more challenging it becomes to avoid self-collision and collisions with the walls of the game grid. A single misstep can end your game, so strategize your movements wisely to achieve the highest score possible.
 
-# Code Style
-The structure of the written code and Javadoc comments are based off of Richmond Hill High School's [Java Style Programming Guide](https://github.com/danielrzhang/ICS4U1-Computer-Science/blob/main/RHHS%20Java%20Style%20Guide.pdf).
+# How to Play
+ - Use the arrow keys (up, down, left, right) to navigate your snake.
+ - Guide your snake towards strawberries to consume them and increase your score.
+ - Avoid colliding with the snake's own body or the walls of the game grid.
+ - The game ends when your snake collides with itself or hits a wall.
 
 # Game Snapshots
 ## Title Screen
@@ -14,7 +18,7 @@ The structure of the written code and Javadoc comments are based off of Richmond
 
 # Editor
  - Coded with DrJava
- 
+
 # Download
  - Click on the green download button labelled "Code".
  - Enter the dropdown menu and select "Download ZIP".
